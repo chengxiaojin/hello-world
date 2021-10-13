@@ -1,2 +1,3 @@
 # hello-world
-just a learning repository
+i am chenglongjin, graduated from CQNU.
+thank you!
